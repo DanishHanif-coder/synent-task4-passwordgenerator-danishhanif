@@ -30,4 +30,4 @@ Following the guidelines of Synent Technologies[cite: 1]:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/synent-task4-passwordgenerator-danishhanif.git](https://github.com/yDanishHanif-coder/synent-task4-passwordgenerator-danishhanif.git)
+   git clone [https://github.com/DanishHanif-coder/synent-task4-passwordgenerator-danishhanif.git](https://github.com/yDanishHanif-coder/synent-task4-passwordgenerator-danishhanif.git)
